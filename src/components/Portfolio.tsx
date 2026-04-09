@@ -30,7 +30,7 @@ const projects = [
     name: 'Strata Clean',
     suburb: 'Sydney Suburbs',
     service: 'Complex Care',
-    image: '/images/pool-3-after.jpg',
+    image: '/images/strata.jpg',
   },
   {
     name: 'Equipment Install',
