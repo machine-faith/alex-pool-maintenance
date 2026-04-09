@@ -4,6 +4,7 @@ import Hero from './components/Hero';
 import TrustSignals from './components/TrustSignals';
 import WhyChooseUs from './components/WhyChooseUs';
 import Services from './components/Services';
+import BeforeAfter from './components/BeforeAfter';
 import Portfolio from './components/Portfolio';
 import AboutStory from './components/AboutStory';
 import Testimonials from './components/Testimonials';
@@ -23,6 +24,7 @@ export default function App() {
         <TrustSignals />
         <WhyChooseUs />
         <Services />
+        <BeforeAfter />
         <Portfolio />
         <AboutStory />
         <Testimonials />

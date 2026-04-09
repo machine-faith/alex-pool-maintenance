@@ -28,8 +28,8 @@ export default function Navbar() {
       }`}
     >
       <div className="max-w-7xl mx-auto px-6 flex items-center justify-between">
-        <div className="flex items-center gap-2">
-          <img src="/images/logo.jpg" alt="Alex Pool Maintenance Logo" className="h-12 w-auto object-contain rounded-lg shadow-lg" />
+        <div className="flex items-center gap-4">
+          <img src="/images/logo-transparent.png" alt="Alex Pool Maintenance Logo" className="h-20 md:h-28 w-auto object-contain" />
           <span className="hidden sm:inline-block text-xl md:text-2xl font-display font-bold tracking-tighter text-white">
             ALEX <span className="text-aqua-500">POOL MAINTENANCE</span>
           </span>
